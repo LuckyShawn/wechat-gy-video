@@ -4,7 +4,7 @@
     </view>
     <view class="login-from">
         <form bindsubmit='doLogin'>
-            <!--账号-->
+            <!--账号 -->
             <view class="inputView">
                 <image class="nameImage" src="../resource/images/username.png"></image>
                 <label class="loginLabel">账号</label>
